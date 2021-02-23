@@ -2,16 +2,11 @@
 subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
-        resnet: 3
         anomaly detection: 1
-        DeepFake: 5
-        encoding: 5
-        Neural Networks: 4
-        deep: 3
-        model: 3
         domain shift: 1
         transfer learning: 1
         semi-supervised learning: 1
+        transformer: 3
 
 # 通知の閾値
 score_threshold: 0
