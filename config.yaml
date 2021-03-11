@@ -2,10 +2,10 @@
 subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
-        anomaly detection: 1
-        domain shift: 1
-        transfer learning: 1
-        semi-supervised learning: 1
+        anomaly detection: 3
+        domain shift: 3
+        transfer learning: 2
+        semi-supervised learning: 4
         transformer: 3
 
 # 通知の閾値
